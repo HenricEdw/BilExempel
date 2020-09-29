@@ -1,0 +1,6 @@
+C:\CodeProjects\ClassExcercise\bin\Debug\ClassExcercise.exe.config
+C:\CodeProjects\ClassExcercise\bin\Debug\ClassExcercise.exe
+C:\CodeProjects\ClassExcercise\bin\Debug\ClassExcercise.pdb
+C:\CodeProjects\ClassExcercise\obj\Debug\ClassExcercise.csprojAssemblyReference.cache
+C:\CodeProjects\ClassExcercise\obj\Debug\ClassExcercise.exe
+C:\CodeProjects\ClassExcercise\obj\Debug\ClassExcercise.pdb
